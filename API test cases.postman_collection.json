@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "e9a49818-6b0d-4b1c-b2f0-01db6e266cf1",
+		"name": "API test cases",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37283699"
+	},
+	"item": [
+		{
+			"name": "Check if status code is 200",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
